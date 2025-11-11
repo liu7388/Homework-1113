@@ -22,6 +22,6 @@ public class Sample3_20
         StringBuffer sb = new StringBuffer(str1);
         sb.append(str2);
 
-        System.err.println("在「" + str1 + "」後新增「" + str2 + "」的話，就會變成「" + sb + "」。");
+        System.out.println("在「" + str1 + "」後新增「" + str2 + "」的話，就會變成「" + sb + "」。");
     }
 }

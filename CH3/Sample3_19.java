@@ -23,8 +23,8 @@ public class Sample3_19
         int num = str1.indexOf(ch);
         
         if(num != -1)
-            System.err.println(str1 + "的第" + (num+1) + "個字就是「" + ch + "」");
+            System.out.println(str1 + "的第" + (num+1) + "個字就是「" + ch + "」");
         else
-            System.err.println(str1 + "中沒有「" + ch + "」這個字");
+            System.out.println(str1 + "中沒有「" + ch + "」這個字");
     }
 }
