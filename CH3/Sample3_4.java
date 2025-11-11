@@ -26,6 +26,5 @@ class Car
     {
         System.out.println("車號是" + num);
         System.out.println("汽油量是" + gas);
-
     }
 }
