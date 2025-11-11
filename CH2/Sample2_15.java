@@ -1,7 +1,4 @@
 // CH2 P.39
-
-package CH2;
-
 public class Sample2_15
 {
     public static void main(String[] args)

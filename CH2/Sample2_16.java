@@ -1,7 +1,4 @@
 // CH2 P.40
-
-package CH2;
-
 import java.lang.reflect.Array;
 
 public class Sample2_16

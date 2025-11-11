@@ -1,7 +1,5 @@
 // CH3 P.5 
 
-package CH3;
-
 public class Sample3_1 
 {
     public static void main(String[] args)
