@@ -17,7 +17,11 @@ public class Sample2_7
         String str = br.readLine();
         char letter = str.charAt(0);
 
-        if(letter == 'Y' || letter == 'y')
+        // 原本寫法
+        // if(letter == 'Y' || letter == 'y')
+
+        // 更改為toUpperCase
+        if (Character.toUpperCase(letter) == 'Y')
         {
             System.out.println("你是男生阿！");
         }
